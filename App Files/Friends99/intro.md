@@ -4,7 +4,7 @@
 **About App**
  This is a chatting and video calling app . It helps people by connecting them
 
-### Screenshots of a fun99 Android app
+### Screenshots of a Fun99 Android app
 
 <p align="center">
 <img src="Resouces/Friends 99/1 (1).png" height = "480" width="270"> 
@@ -121,5 +121,13 @@
 - [x] location in profile
 - [x] Attractive Ui
 - [x] Edit profile
+
+
+
+## Contact Me For Development
+
+**PH No:- +91 9212696418** (WhatsApp No)
+**Email Id:-** dreamapps.skj@gmail.com   
+
  
 
